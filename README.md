@@ -1,14 +1,17 @@
-# botium-toys-security-audit
-Internal security audit case study using the NIST CSF, control assessments, and compliance analysis.
+⚠️ This project is for educational purposes and demonstrates foundational cybersecurity audit skills.
 
-## Files Included
-- audit-report.md
-- controls-checklist.md
-- compliance-checklist.md
-- recommendations.md
+# Botium Toys Security Audit
 
-## Skills Demonstrated
+## Overview
+This project is a cybersecurity audit conducted as part of my learning.
+
+## Objective
+To identify risks, vulnerabilities, and recommend security improvements.
+
+## Key Areas Covered
 - Risk Assessment
-- Security Controls Analysis
-- Compliance Mapping (PCI DSS, GDPR, SOC)
-- NIST Cybersecurity Framework
+- Security Controls
+- Compliance Review
+
+## Outcome
+Provided recommendations to improve security posture.
